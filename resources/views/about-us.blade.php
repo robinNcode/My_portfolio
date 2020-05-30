@@ -91,15 +91,15 @@
 						</div>
 						<div class="col-lg-7">
 							<div class="personal_text">
-								<h6>Hello Everybody, i am</h6>
-								<h3>Donald McKinney</h3>
-								<h4>Junior UI/UX Developer</h4>
-								<p>You will begin to realise why this exercise is called the Dickens Pattern (with reference to the ghost showing Scrooge some different futures)</p>
+								<h6>assala-mu-alaikum !!! i am</h6>
+								<h3>MsM Robin</h3>
+								<h4>Junior Web Developer & Programmer</h4>
+								<p>To secure a challenging position in a reputable organization to expand my learnings,knowledge,and skills. To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience.</p>
 								<ul class="list basic_info">
-									<li><a href="#"><i class="lnr lnr-calendar-full"></i> 31st December, 1992</a></li>
-									<li><a href="#"><i class="lnr lnr-phone-handset"></i> 44 (012) 6954 783</a></li>
-									<li><a href="#"><i class="lnr lnr-envelope"></i> businessplan@donald</a></li>
-									<li><a href="#"><i class="lnr lnr-home"></i> Santa monica bullevard</a></li>
+									<li><a href="#"><i class="lnr lnr-calendar-full"></i> 1st January, 2000</a></li>
+									<li><a href="#"><i class="lnr lnr-phone-handset"></i>01318515718</a></li>
+									<li><a href="#"><i class="lnr lnr-envelope"></i>msmrobin518@gmail.com</a></li>
+									<li><a href="#"><i class="lnr lnr-home"></i>60/24,B-Dhalpur,Jatrabari</a></li>
 								</ul>
 								<ul class="list personal_social">
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
