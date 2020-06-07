@@ -27,14 +27,14 @@
     	}
     </style>
     <body>
-        
+
         <!--================Header Menu Area =================-->
         <header class="header_area">
             <div class="main_menu">
             	<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container box_1620">
 						<!-- Brand and toggle get grouped for better mobile display -->
-						<a class="navbar-brand logo_h" href="index.html">My Portfolio</a>
+						<a class="navbar-brand logo_h" href="portfolio">My Portfolio</a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -43,32 +43,31 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 							<ul class="nav navbar-nav menu_nav ml-auto">
-								<li class="nav-item active"><a class="nav-link" href="portfolio">Home</a></li> 
-								<li class="nav-item"><a class="nav-link" href="about">About</a></li> 
-								<li class="nav-item"><a class="nav-link" href="services">Services</a></li> 
+								<li class="nav-item active"><a class="nav-link" href="portfolio">Home</a></li>
+								<li class="nav-item"><a class="nav-link" href="about">About</a></li>
 								<li class="nav-item submenu dropdown">
 									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
 									<ul class="dropdown-menu">
 										<li class="nav-item"><a class="nav-link" href="page1">Portfolio</a></li>
-										<li class="nav-item"><a class="nav-link" href="page2">Elements</a></li>
+										<li class="nav-item"><a class="nav-link" href="page2">Photography</a></li>
 									</ul>
-								</li> 
-								<li class="nav-item submenu dropdown">
+								</li>
+								<!--li class="nav-item submenu dropdown">
 									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
 									<ul class="dropdown-menu">
 										<li class="nav-item"><a class="nav-link" href="blog">Blog</a></li>
 										<li class="nav-item"><a class="nav-link" href="blogd">Blog Details</a></li>
 									</ul>
-								</li> 
+								</li-->
 								<li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
 							</ul>
-						</div> 
+						</div>
 					</div>
             	</nav>
             </div>
         </header>
         <!--================Header Menu Area =================-->
-        
+
         <!--================Home Banner Area =================-->
         <section class="home_banner_area">
            	<div class="container box_1620">
@@ -91,9 +90,9 @@
 										<li><a href="#"><i class="lnr lnr-home"></i>Belabo,Narshingdi</a></li>
 									</ul>
 									<ul class="list personal_social">
-										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="https://www.facebook.com/arrobinkhan34"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="https://www.instagram.com/msmrobin07/"><i class="fa fa-instagram"></i></a></li>
+										<li><a href="https://github.com/robinNcode"><i class="fa fa-github"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -103,7 +102,7 @@
             </div>
         </section>
         <!--================End Home Banner Area =================-->
-        
+
         <!--================Welcome Area =================-->
         <section class="welcome_area p_120">
         	<div class="container">
@@ -189,7 +188,7 @@
 										</div>
 									</div>
 								</div>
-								
+
 							</div>
         				</div>
         			</div>
@@ -197,7 +196,7 @@
         	</div>
         </section>
         <!--================End Welcome Area =================-->
-        
+
         <!--================My Tabs Area =================-->
         <section class="mytabs_area p_120">
         	<div class="container">
@@ -239,7 +238,7 @@
 								</li>
 								<li>
 								<span></span>
-									
+
 								</li>
 							</ul>
 						</div>
@@ -261,7 +260,7 @@
 									<span></span>
 									<div class="media">
 										<div class="d-flex">
-											<p>July 2016 to 2018 
+											<p>July 2016 to 2018
 											<br/>
 											<br/>
 											Group
@@ -298,7 +297,7 @@
         	</div>
         </section>
         <!--================End My Tabs Area =================-->
-        
+
         <!--================Home Gallery Area =================-->
         <section class="home_gallery_area p_120">
         	<div class="container">
@@ -399,64 +398,63 @@
         	</div>
         </section>
         <!--================End Home Gallery Area =================-->
-        
+
         <!--================Footer Area =================-->
         <footer class="footer_area p_120">
-        	<div class="container">
-        		<div class="row footer_inner">
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget ab_widget">
-        					<div class="f_title">
-        						<h3>About Me</h3>
-        					</div>
-        					<p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,the more you will proceed to your goals.</p>
-        					<p>
-Copyright &copy;<script>document.write(new Date().getFullYear());</script>This portfolio is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Robin</a>
-</p>
-        				</aside>
-        			</div>
-        			
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget news_widget">
-        					<div class="f_title">
-        						<h3>Newsletter</h3>
-        					</div>
-        					<p>Stay updated with our latest trends</p>
-        					<div id="mc_embed_signup">
+            <div class="container">
+                <div class="row footer_inner">
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget ab_widget">
+                            <div class="f_title">
+                                <h3>About Me</h3>
+                            </div>
+                            <p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,the more you will proceed to your goals.</p>
+                            <p>
+                                Copyright &copy;<script>document.write(new Date().getFullYear());</script>This portfolio is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Robin</a>
+                            </p>
+                        </aside>
+                    </div>
+
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget news_widget">
+                            <div class="f_title">
+                                <h3>Newsletter</h3>
+                            </div>
+                            <p>Stay updated with latest trends</p>
+                            <div id="mc_embed_signup">
                                 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                                	<div class="input-group d-flex flex-row">
+                                    <div class="input-group d-flex flex-row">
                                         <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>		
-                                    </div>				
+                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>
+                                    </div>
                                     <div class="mt-10 info"></div>
                                 </form>
                             </div>
-        				</aside>
-        			</div>
-        			<div class="col-lg-2">
-        				<aside class="f_widget social_widget">
-        					<div class="f_title">
-        						<h3>Follow Me</h3>
-        					</div>
-        					<p>Let us be social</p>
-        					<ul class="list">
-        						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-        						<li><a href="#"><i class="fa fa-behance"></i></a></li>
-        					</ul>
-        				</aside>
-        			</div>
-        		</div>
-        	</div>
+                        </aside>
+                    </div>
+                    <div class="col-lg-2">
+                        <aside class="f_widget social_widget">
+                            <div class="f_title">
+                                <h3>Follow Me</h3>
+                            </div>
+                            <p>Let us be social</p>
+                            <ul class="list">
+                                <li><a href="https://www.facebook.com/arrobinkhan34"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.instagram.com/msmrobin07/"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="https://github.com/robinNcode"><i class="fa fa-github"></i></a></li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+            </div>
         </footer>
         <!--================End Footer Area =================-->
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="js/jquery-3.3.1.min.js"></script>
@@ -476,3 +474,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script>This p
         <script src="js/theme.js"></script>
     </body>
 </html>
+

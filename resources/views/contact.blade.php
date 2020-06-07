@@ -21,14 +21,13 @@
     </head>
     <body>
         
-         <!--================Header Menu Area =================-->
+        <!--================Header Menu Area =================-->
         <header class="header_area">
             <div class="main_menu">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <div class="container box_1620">
                         <!-- Brand and toggle get grouped for better mobile display -->
-                        <a class="navbar-brand logo_h" href="portfolio
-                        ">My Portfolio</a>
+                        <a class="navbar-brand logo_h" href="portfolio">My Portfolio</a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
@@ -37,26 +36,25 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                             <ul class="nav navbar-nav menu_nav ml-auto">
-                                <li class="nav-item active"><a class="nav-link" href="portfolio">Home</a></li> 
-                                <li class="nav-item"><a class="nav-link" href="about">About</a></li> 
-                                <li class="nav-item"><a class="nav-link" href="services">Services</a></li> 
+                                <li class="nav-item active"><a class="nav-link" href="portfolio">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="about">About</a></li>
                                 <li class="nav-item submenu dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item"><a class="nav-link" href="page1">Portfolio</a></li>
-                                        <li class="nav-item"><a class="nav-link" href="page2">Elements</a></li>
+                                        <li class="nav-item"><a class="nav-link" href="page2">Photography</a></li>
                                     </ul>
-                                </li> 
-                                <li class="nav-item submenu dropdown">
+                                </li>
+                                <!--li class="nav-item submenu dropdown">
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item"><a class="nav-link" href="blog">Blog</a></li>
                                         <li class="nav-item"><a class="nav-link" href="blogd">Blog Details</a></li>
                                     </ul>
-                                </li> 
+                                </li-->
                                 <li class="nav-item"><a class="nav-link" href="contact">Contact</a></li>
                             </ul>
-                        </div> 
+                        </div>
                     </div>
                 </nav>
             </div>
@@ -69,10 +67,10 @@
 				<div class="banner_inner d-flex align-items-center">
 					<div class="container">
 						<div class="banner_content text-center">
-							<h2>Contact Us</h2>
+							<h2>Contact Me</h2>
 							<div class="page_link">
-								<a href="index.html">Home</a>
-								<a href="contact.html">Contact Us</a>
+								<a href="portfolio">Home</a>
+								<a href="contact">Contact Me</a>
 							</div>
 						</div>
 					</div>
@@ -84,31 +82,23 @@
         <!--================Contact Area =================-->
         <section class="contact_area p_120">
             <div class="container">
-                <div id="mapBox" class="mapBox" 
-                    data-lat="40.701083" 
-                    data-lon="-74.1522848" 
-                    data-zoom="13" 
-                    data-info="PO Box CT16122 Collins Street West, Victoria 8007, Australia."
-                    data-mlat="40.701083"
-                    data-mlon="-74.1522848">
-                </div>
                 <div class="row">
                     <div class="col-lg-3">
                         <div class="contact_info">
                             <div class="info_item">
                                 <i class="lnr lnr-home"></i>
-                                <h6>California, United States</h6>
-                                <p>Santa monica bullevard</p>
+                                <h6>Dhaka,Bangladesh</h6>
+                                <p>60/24-B,Dhalpur,Jatrabari</p>
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-phone-handset"></i>
-                                <h6><a href="#">00 (440) 9865 562</a></h6>
+                                <h6><a href="#">01318515718</a></h6>
                                 <p>Mon to Fri 9am to 6 pm</p>
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-envelope"></i>
-                                <h6><a href="#">support@colorlib.com</a></h6>
-                                <p>Send us your query anytime!</p>
+                                <h6><a href="#">msmrobin518@gmail.com</a></h6>
+                                <p>Send me your query anytime!</p>
                             </div>
                         </div>
                     </div>
@@ -142,52 +132,52 @@
         
         <!--================Footer Area =================-->
         <footer class="footer_area p_120">
-        	<div class="container">
-        		<div class="row footer_inner">
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget ab_widget">
-        					<div class="f_title">
-        						<h3>About Me</h3>
-        					</div>
-        					<p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,</p>
-        					<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-        				</aside>
-        			</div>
-        			<div class="col-lg-5 col-sm-6">
-        				<aside class="f_widget news_widget">
-        					<div class="f_title">
-        						<h3>Newsletter</h3>
-        					</div>
-        					<p>Stay updated with our latest trends</p>
-        					<div id="mc_embed_signup">
+            <div class="container">
+                <div class="row footer_inner">
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget ab_widget">
+                            <div class="f_title">
+                                <h3>About Me</h3>
+                            </div>
+                            <p>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills,the more you will proceed to your goals.</p>
+                            <p>
+                                Copyright &copy;<script>document.write(new Date().getFullYear());</script>This portfolio is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Robin</a>
+                            </p>
+                        </aside>
+                    </div>
+
+                    <div class="col-lg-5 col-sm-6">
+                        <aside class="f_widget news_widget">
+                            <div class="f_title">
+                                <h3>Newsletter</h3>
+                            </div>
+                            <p>Stay updated with latest trends</p>
+                            <div id="mc_embed_signup">
                                 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                                	<div class="input-group d-flex flex-row">
+                                    <div class="input-group d-flex flex-row">
                                         <input name="EMAIL" placeholder="Enter email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>		
-                                    </div>				
+                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>
+                                    </div>
                                     <div class="mt-10 info"></div>
                                 </form>
                             </div>
-        				</aside>
-        			</div>
-        			<div class="col-lg-2">
-        				<aside class="f_widget social_widget">
-        					<div class="f_title">
-        						<h3>Follow Me</h3>
-        					</div>
-        					<p>Let us be social</p>
-        					<ul class="list">
-        						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-        						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        						<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-        						<li><a href="#"><i class="fa fa-behance"></i></a></li>
-        					</ul>
-        				</aside>
-        			</div>
-        		</div>
-        	</div>
+                        </aside>
+                    </div>
+                    <div class="col-lg-2">
+                        <aside class="f_widget social_widget">
+                            <div class="f_title">
+                                <h3>Follow Me</h3>
+                            </div>
+                            <p>Let us be social</p>
+                            <ul class="list">
+                                <li><a href="https://www.facebook.com/arrobinkhan34"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.instagram.com/msmrobin07/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://github.com/robinNcode"><i class="fa fa-github"></i></a></li>
+                            </ul>
+                        </aside>
+                    </div>
+                </div>
+            </div>
         </footer>
         <!--================End Footer Area =================-->
         
